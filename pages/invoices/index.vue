@@ -60,7 +60,7 @@
             <span></span>
           </div>
           <div class="column text-r">
-            <span>Total Price:</span>
+            <span>Total Price:&nbsp;</span>
           </div>
           <div class="column">
             <span>
